@@ -1,6 +1,6 @@
 const express = require('express');
-
 var mongoose = require('mongoose');
+var cors = require('cors');
 
 mongoose.connect('mongodb://127.0.0.1:27017/mudb2')
 .then(() => console.log('Connected to MongoDB'))
@@ -13,6 +13,7 @@ const port = 4000;
 
 app.use(express.static('public'));
 app.use(express.json());
+app.use(cors());
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
