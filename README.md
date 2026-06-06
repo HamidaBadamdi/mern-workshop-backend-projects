@@ -1,10 +1,5 @@
 # 🚀 MERN Stack Workshop (3-Day Hands-on Project)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/mern-workshop-backend-projects)
-![GitHub stars](https://img.shields.io/github/stars/your-username/mern-workshop-backend-projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/mern-workshop-backend-projects?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/mern-workshop-backend-projects)
-
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express.js](https://img.shields.io/badge/Express.js-Framework-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
